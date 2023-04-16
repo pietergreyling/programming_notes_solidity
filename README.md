@@ -38,7 +38,7 @@ contract HelloWorld {
   Solidity actually offers two address value types: address and address payable. The difference between the two is that address payable can send and transfer Ether.
   We can use an address to acquire a balance using the .balance method and to transfer a balance using the .transfer method.
 
-```java
+```solidity
 // example of an address value type in solidity
 
 Contract  SampleAddress   } 
