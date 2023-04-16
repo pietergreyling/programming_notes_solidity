@@ -15,7 +15,7 @@ These notes help to aid my short term memory.
 
 ## Resources
 
-### Solidity Language
+### Solidity Programming Language
 - https://soliditylang.org/
 - https://docs.soliditylang.org/en/latest/
 
